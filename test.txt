@@ -1,4 +1,4 @@
 To jest podstawowy plik
 Zmiana dla kolejnego commitu
-To jest zmiana równoległa na masterze
+To jest zmiana dla nowej gałęzi
 
